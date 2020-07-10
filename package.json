@@ -1,0 +1,11 @@
+{
+  "name": "canvas-fun",
+  "version": "1.0.0",
+  "description": "Some fun with canvas",
+  "main": "canvas.js",
+  "scripts": {
+    "start": "start"
+  },
+  "author": "alexkid909",
+  "license": "ISC"
+}
